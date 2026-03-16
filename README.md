@@ -2,7 +2,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **33+ providers** and **779+ plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **33 providers** and **781 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## How to suggest a provider
 
@@ -12,37 +12,39 @@ We currently track **33+ providers** and **779+ plans**, but there are many grea
 
 | Provider | Types | Region |
 |----------|-------|--------|
-| Hostinger | Shared, VPS, Cloud, WordPress | Global |
-| SiteGround | Shared, Cloud, WordPress | Global |
-| Hetzner | VPS, Dedicated, Cloud | EU |
-| DigitalOcean | VPS, Cloud | Global |
-| Bluehost | Shared, VPS, WordPress | US |
-| A2 Hosting | Shared, VPS, Dedicated | Global |
-| DreamHost | Shared, VPS, WordPress | US |
-| Kinsta | WordPress, Cloud | Global |
+| A2 Hosting | Shared, VPS, Reseller, WordPress | Global |
+| Amazon Lightsail | VPS, Cloud | Global |
+| Bluehost | Shared, VPS, Cloud, Dedicated, WordPress, WooCommerce | US |
 | Cloudways | Cloud | Global |
-| FastComet | Shared, VPS, Cloud | Global |
-| HostArmada | Shared, VPS, Cloud | Global |
-| InMotion | Shared, VPS, Dedicated | US |
-| Namecheap | Shared, VPS, WordPress | Global |
-| IONOS | Shared, VPS, Dedicated | EU/US |
-| Vultr | VPS, Cloud, Dedicated | Global |
-| Linode (Akamai) | VPS, Cloud | Global |
-| WP Engine | WordPress | Global |
-| GreenGeeks | Shared, VPS, WordPress | US/EU |
-| ScalaHosting | Shared, VPS, Cloud | Global |
-| Contabo | VPS, Dedicated | EU/US |
-| Kamatera | VPS, Cloud | Global |
-| Hostwinds | Shared, VPS, Cloud, Dedicated | US |
+| Devrims | Cloud | Global |
+| DigitalOcean | Cloud | Global |
+| Diploi | Cloud | EU |
+| DreamHost | Dedicated, WordPress | US |
+| Dynadot | Website Builder | Global |
+| FastComet | Shared, VPS, Dedicated | Global |
+| GoDaddy | Shared, VPS, WordPress, Website Builder | Global |
+| GreenGeeks | Shared, VPS, Dedicated, Reseller, WordPress, WooCommerce | US/EU |
+| Hetzner | Shared, VPS, Cloud, Dedicated | EU |
+| HostArmada | Shared, VPS, Dedicated, Reseller, WordPress | Global |
+| HostGator | Shared, VPS, WordPress | Global |
+| Hostinger | Shared, VPS, Cloud, WordPress, Website Builder, Game Server | Global |
+| Hostwinds | Shared, VPS, Reseller | US |
+| InMotion Hosting | Shared, VPS, Dedicated | US |
 | InterServer | Shared, VPS, Dedicated | US |
-| AccuWeb | Shared, VPS, WordPress | US/EU |
-| ChemiCloud | Shared, Cloud | Global |
-| Verpex | Shared, Cloud, WordPress | Global |
-| Nexcess | WordPress, WooCommerce | Global |
-| Rocket.net | WordPress | Global |
-| 20i | Shared, WordPress, VPS | UK |
-| Diploi | Cloud, PaaS | EU |
-| Private Hosting | VPS, Shared, Dedicated, Game | EU |
+| IONOS | Shared, VPS, Dedicated, WordPress, Website Builder | EU/US |
+| Kinsta | WordPress | Global |
+| Linode (Akamai) | VPS, Cloud | Global |
+| Liquid Web | VPS, Dedicated, WordPress, WooCommerce | Global |
+| Namecheap | Shared, VPS, Dedicated, Reseller, WordPress | Global |
+| Railway | Cloud | Global |
+| Rocket.net | Dedicated, WordPress | Global |
+| Scala Hosting | Shared, VPS, WordPress | Global |
+| Shopify | Website Builder | Global |
+| SiteGround | Shared, Cloud | Global |
+| Squarespace | Website Builder | Global |
+| Vultr | VPS, Cloud, Dedicated | Global |
+| Wix | Website Builder | Global |
+| WP Engine | WordPress, WooCommerce | Global |
 
 ...and more being added regularly!
 
