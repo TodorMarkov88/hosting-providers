@@ -2,7 +2,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **33 providers** and **781 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **34 providers** and **808 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## How to suggest a provider
 
@@ -36,6 +36,7 @@ We currently track **33 providers** and **781 plans**, but there are many great 
 | Linode (Akamai) | VPS, Cloud | Global |
 | Liquid Web | VPS, Dedicated, WordPress, WooCommerce | Global |
 | Namecheap | Shared, VPS, Dedicated, Reseller, WordPress | Global |
+| Netcup | Shared, VPS, Cloud, Reseller | EU |
 | Railway | Cloud | Global |
 | Rocket.net | Dedicated, WordPress | Global |
 | Scala Hosting | Shared, VPS, WordPress | Global |
