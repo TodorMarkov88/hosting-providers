@@ -2,15 +2,15 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **37 providers** and **911 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **39 providers** and **961 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) — Shared, Website Builder
+- [ServaRica](https://hostingsift.com/hosting/servarica) — VPS, Dedicated
 - [PebbleHost](https://hostingsift.com/hosting/pebblehost) — Game Server, Dedicated, Shared
 - [Contabo](https://hostingsift.com/hosting/contabo) — VPS, Cloud, Dedicated
 - [Netcup](https://hostingsift.com/hosting/netcup) — Shared, VPS, Cloud, Reseller
-- [Private Hosting](https://hostingsift.com/hosting/private-hosting) — Shared, VPS, Dedicated, Game Server
-- [Diploi](https://hostingsift.com/hosting/diploi) — Cloud
 
 ## How to suggest a provider
 
@@ -27,7 +27,7 @@ We currently track **37 providers** and **911 plans**, but there are many great 
 | [Contabo](https://hostingsift.com/hosting/contabo) | VPS, Cloud, Dedicated | EU *(recently added)* |
 | [Devrims](https://hostingsift.com/hosting/devrims) | Cloud | Global |
 | [DigitalOcean](https://hostingsift.com/hosting/digitalocean) | Cloud | Global |
-| [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU *(recently added)* |
+| [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU |
 | [DreamHost](https://hostingsift.com/hosting/dreamhost) | Dedicated, WordPress | US |
 | [Dynadot](https://hostingsift.com/hosting/dynadot) | Website Builder | Global |
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
@@ -47,13 +47,15 @@ We currently track **37 providers** and **911 plans**, but there are many great 
 | [Namecheap](https://hostingsift.com/hosting/namecheap) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [Netcup](https://hostingsift.com/hosting/netcup) | Shared, VPS, Cloud, Reseller | EU *(recently added)* |
 | [PebbleHost](https://hostingsift.com/hosting/pebblehost) | Game Server, Dedicated, Shared | Global *(recently added)* |
-| [Private Hosting](https://hostingsift.com/hosting/private-hosting) | Shared, VPS, Dedicated, Game Server | EU *(recently added)* |
+| [Private Hosting](https://hostingsift.com/hosting/private-hosting) | Shared, VPS, Dedicated, Game Server | EU |
 | [Railway](https://hostingsift.com/hosting/railway) | Cloud | Global |
 | [Rocket.net](https://hostingsift.com/hosting/rocketnet) | Dedicated, WordPress | Global |
 | [Scala Hosting](https://hostingsift.com/hosting/scala-hosting) | Shared, VPS, WordPress | Global |
+| [ServaRica](https://hostingsift.com/hosting/servarica) | VPS, Dedicated | Canada *(recently added)* |
 | [Shopify](https://hostingsift.com/hosting/shopify) | Website Builder | Global |
 | [SiteGround](https://hostingsift.com/hosting/siteground) | Shared, Cloud | Global |
 | [Squarespace](https://hostingsift.com/hosting/squarespace) | Website Builder | Global |
+| [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) | Shared, Website Builder | Global *(recently added)* |
 | [Vultr](https://hostingsift.com/hosting/vultr) | VPS, Cloud, Dedicated | Global |
 | [Wix](https://hostingsift.com/hosting/wix) | Website Builder | Global |
 | [WP Engine](https://hostingsift.com/hosting/wp-engine) | WordPress, WooCommerce | Global |
