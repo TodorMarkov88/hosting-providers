@@ -2,15 +2,15 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **39 providers** and **961 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **40 providers** and **1046 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [Evolution Host](https://hostingsift.com/hosting/evolution-host) — VPS, VDS, Game Server
 - [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) — Shared, Website Builder
 - [ServaRica](https://hostingsift.com/hosting/servarica) — VPS, Dedicated
 - [PebbleHost](https://hostingsift.com/hosting/pebblehost) — Game Server, Dedicated, Shared
 - [Contabo](https://hostingsift.com/hosting/contabo) — VPS, Cloud, Dedicated
-- [Netcup](https://hostingsift.com/hosting/netcup) — Shared, VPS, Cloud, Reseller
 
 ## How to suggest a provider
 
@@ -29,6 +29,7 @@ We currently track **39 providers** and **961 plans**, but there are many great 
 | [DigitalOcean](https://hostingsift.com/hosting/digitalocean) | Cloud | Global |
 | [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU |
 | [DreamHost](https://hostingsift.com/hosting/dreamhost) | Dedicated, WordPress | US |
+| [Evolution Host](https://hostingsift.com/hosting/evolution-host) | VPS, VDS, Game Server (19 games) | EU *(recently added)* |
 | [Dynadot](https://hostingsift.com/hosting/dynadot) | Website Builder | Global |
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
 | [GoDaddy](https://hostingsift.com/hosting/godaddy) | Shared, VPS, WordPress, Website Builder | Global |
@@ -45,7 +46,7 @@ We currently track **39 providers** and **961 plans**, but there are many great 
 | [Linode (Akamai)](https://hostingsift.com/hosting/linode) | VPS, Cloud | Global |
 | [Liquid Web](https://hostingsift.com/hosting/liquidweb) | VPS, Dedicated, WordPress, WooCommerce | Global |
 | [Namecheap](https://hostingsift.com/hosting/namecheap) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
-| [Netcup](https://hostingsift.com/hosting/netcup) | Shared, VPS, Cloud, Reseller | EU *(recently added)* |
+| [Netcup](https://hostingsift.com/hosting/netcup) | Shared, VPS, Cloud, Reseller | EU |
 | [PebbleHost](https://hostingsift.com/hosting/pebblehost) | Game Server, Dedicated, Shared | Global *(recently added)* |
 | [Private Hosting](https://hostingsift.com/hosting/private-hosting) | Shared, VPS, Dedicated, Game Server | EU |
 | [Railway](https://hostingsift.com/hosting/railway) | Cloud | Global |
