@@ -2,7 +2,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **40 providers** and **1038 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **40 providers** and **1039 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
