@@ -2,15 +2,15 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **40 providers** and **1039 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **41 providers** and **1084 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [ExtraVM](https://hostingsift.com/hosting/extravm) — VPS, Shared, Game Server, Email, Dedicated
 - [Evolution Host](https://hostingsift.com/hosting/evolution-host) — VPS, VDS, Game Server
 - [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) — Shared, Website Builder
 - [ServaRica](https://hostingsift.com/hosting/servarica) — VPS, Dedicated
 - [PebbleHost](https://hostingsift.com/hosting/pebblehost) — Game Server, Dedicated, Shared
-- [Contabo](https://hostingsift.com/hosting/contabo) — VPS, Cloud, Dedicated
 
 ## How to suggest a provider
 
@@ -24,12 +24,13 @@ We currently track **40 providers** and **1039 plans**, but there are many great
 | [Amazon Lightsail](https://hostingsift.com/hosting/aws) | VPS, Cloud | Global |
 | [Bluehost](https://hostingsift.com/hosting/bluehost) | Shared, VPS, Cloud, Dedicated, WordPress, WooCommerce | US |
 | [Cloudways](https://hostingsift.com/hosting/cloudways) | Cloud | Global |
-| [Contabo](https://hostingsift.com/hosting/contabo) | VPS, Cloud, Dedicated | EU *(recently added)* |
+| [Contabo](https://hostingsift.com/hosting/contabo) | VPS, Cloud, Dedicated | EU |
 | [Devrims](https://hostingsift.com/hosting/devrims) | Cloud | Global |
 | [DigitalOcean](https://hostingsift.com/hosting/digitalocean) | Cloud | Global |
 | [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU |
 | [DreamHost](https://hostingsift.com/hosting/dreamhost) | Dedicated, WordPress | US |
 | [Evolution Host](https://hostingsift.com/hosting/evolution-host) | VPS, VDS, Game Server (19 games) | EU *(recently added)* |
+| [ExtraVM](https://hostingsift.com/hosting/extravm) | VPS, Shared, Game Server (18+ games), Email, Dedicated | Global *(recently added)* |
 | [Dynadot](https://hostingsift.com/hosting/dynadot) | Website Builder | Global |
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
 | [GoDaddy](https://hostingsift.com/hosting/godaddy) | Shared, VPS, WordPress, Website Builder | Global |
