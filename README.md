@@ -2,15 +2,15 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **43 providers** and **1121 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **44 providers** and **1204 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [OVHcloud](https://hostingsift.com/hosting/ovhcloud) — Shared, VPS, Dedicated (83 plans)
 - [UltaHost](https://hostingsift.com/hosting/ultahost) — Shared, VPS, VDS, Dedicated, WordPress, Reseller
 - [Name.com](https://hostingsift.com/hosting/namecom) — Shared, WordPress
 - [ExtraVM](https://hostingsift.com/hosting/extravm) — VPS, Shared, Game Server, Email, Dedicated
 - [Evolution Host](https://hostingsift.com/hosting/evolution-host) — VPS, VDS, Game Server
-- [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) — Shared, Website Builder
 
 ## How to suggest a provider
 
@@ -29,7 +29,7 @@ We currently track **43 providers** and **1121 plans**, but there are many great
 | [DigitalOcean](https://hostingsift.com/hosting/digitalocean) | Cloud | Global |
 | [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU |
 | [DreamHost](https://hostingsift.com/hosting/dreamhost) | Dedicated, WordPress | US |
-| [Evolution Host](https://hostingsift.com/hosting/evolution-host) | VPS, VDS, Game Server (19 games) | EU *(recently added)* |
+| [Evolution Host](https://hostingsift.com/hosting/evolution-host) | VPS, VDS, Game Server (19 games) | EU |
 | [ExtraVM](https://hostingsift.com/hosting/extravm) | VPS, Shared, Game Server (18+ games), Email, Dedicated | Global *(recently added)* |
 | [Dynadot](https://hostingsift.com/hosting/dynadot) | Website Builder | Global |
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
@@ -49,6 +49,7 @@ We currently track **43 providers** and **1121 plans**, but there are many great
 | [Name.com](https://hostingsift.com/hosting/namecom) | Shared, WordPress | US *(recently added)* |
 | [Namecheap](https://hostingsift.com/hosting/namecheap) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [Netcup](https://hostingsift.com/hosting/netcup) | Shared, VPS, Cloud, Reseller | EU |
+| [OVHcloud](https://hostingsift.com/hosting/ovhcloud) | Shared, VPS, Dedicated | Global *(recently added)* |
 | [PebbleHost](https://hostingsift.com/hosting/pebblehost) | Game Server, Dedicated, Shared | Global |
 | [Private Hosting](https://hostingsift.com/hosting/private-hosting) | Shared, VPS, Dedicated, Game Server | EU |
 | [Railway](https://hostingsift.com/hosting/railway) | Cloud | Global |
