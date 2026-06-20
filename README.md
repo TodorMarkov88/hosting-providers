@@ -2,15 +2,15 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **45 providers** and **1233 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **48 providers** and **1296 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [Time4VPS](https://hostingsift.com/hosting/time4vps) — VPS, Storage VPS, Managed (36 plans)
+- [Kamatera](https://hostingsift.com/hosting/kamatera) — Cloud (10 plans)
+- [HostPapa](https://hostingsift.com/hosting/hostpapa) — Shared, WordPress, VPS, Reseller (24 plans)
 - [Fly.io](https://hostingsift.com/hosting/fly-io) — Cloud, VPS (14 plans)
 - [OVHcloud](https://hostingsift.com/hosting/ovhcloud) — Shared, VPS, Dedicated (83 plans)
-- [UltaHost](https://hostingsift.com/hosting/ultahost) — Shared, VPS, VDS, Dedicated, WordPress, Reseller (32 plans)
-- [Name.com](https://hostingsift.com/hosting/namecom) — Shared, WordPress (4 plans)
-- [ExtraVM](https://hostingsift.com/hosting/extravm) — VPS, Shared, Game Server, Email, Dedicated (45 plans)
 
 ## How to suggest a provider
 
@@ -29,8 +29,8 @@ We currently track **45 providers** and **1233 plans**, but there are many great
 | [DigitalOcean](https://hostingsift.com/hosting/digitalocean) | Cloud | Global |
 | [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU |
 | [DreamHost](https://hostingsift.com/hosting/dreamhost) | Dedicated, WordPress | US |
-| [Evolution Host](https://hostingsift.com/hosting/evolution-host) | VPS, VDS, Game Server (19 games) | EU *(recently added)* |
-| [ExtraVM](https://hostingsift.com/hosting/extravm) | VPS, Shared, Game Server (18+ games), Email, Dedicated | Global *(recently added)* |
+| [Evolution Host](https://hostingsift.com/hosting/evolution-host) | VPS, VDS, Game Server (19 games) | EU |
+| [ExtraVM](https://hostingsift.com/hosting/extravm) | VPS, Shared, Game Server (18+ games), Email, Dedicated | Global |
 | [Dynadot](https://hostingsift.com/hosting/dynadot) | Website Builder | Global |
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
 | [Fly.io](https://hostingsift.com/hosting/fly-io) | Cloud, VPS | Global *(recently added)* |
@@ -40,14 +40,16 @@ We currently track **45 providers** and **1233 plans**, but there are many great
 | [HostArmada](https://hostingsift.com/hosting/hostarmada) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [HostGator](https://hostingsift.com/hosting/hostgator) | Shared, VPS, WordPress | Global |
 | [Hostinger](https://hostingsift.com/hosting/hostinger) | Shared, VPS, Cloud, WordPress, Website Builder, Game Server | Global |
+| [HostPapa](https://hostingsift.com/hosting/hostpapa) | Shared, WordPress, VPS, Reseller | US/EU *(recently added)* |
 | [Hostwinds](https://hostingsift.com/hosting/hostwinds) | Shared, VPS, Reseller | US |
 | [InMotion Hosting](https://hostingsift.com/hosting/inmotion-hosting) | Shared, VPS, Dedicated | US |
 | [InterServer](https://hostingsift.com/hosting/interserver) | Shared, VPS, Dedicated | US |
 | [IONOS](https://hostingsift.com/hosting/ionos) | Shared, VPS, Dedicated, WordPress, Website Builder | EU/US |
+| [Kamatera](https://hostingsift.com/hosting/kamatera) | Cloud | Global *(recently added)* |
 | [Kinsta](https://hostingsift.com/hosting/kinsta) | WordPress | Global |
 | [Linode (Akamai)](https://hostingsift.com/hosting/linode) | VPS, Cloud | Global |
 | [Liquid Web](https://hostingsift.com/hosting/liquidweb) | VPS, Dedicated, WordPress, WooCommerce | Global |
-| [Name.com](https://hostingsift.com/hosting/namecom) | Shared, WordPress | US *(recently added)* |
+| [Name.com](https://hostingsift.com/hosting/namecom) | Shared, WordPress | US |
 | [Namecheap](https://hostingsift.com/hosting/namecheap) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [Netcup](https://hostingsift.com/hosting/netcup) | Shared, VPS, Cloud, Reseller | EU |
 | [OVHcloud](https://hostingsift.com/hosting/ovhcloud) | Shared, VPS, Dedicated | Global *(recently added)* |
@@ -61,7 +63,8 @@ We currently track **45 providers** and **1233 plans**, but there are many great
 | [SiteGround](https://hostingsift.com/hosting/siteground) | Shared, Cloud | Global |
 | [Squarespace](https://hostingsift.com/hosting/squarespace) | Website Builder | Global |
 | [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) | Shared, Website Builder | Global |
-| [UltaHost](https://hostingsift.com/hosting/ultahost) | Shared, VPS, VDS, Dedicated, WordPress, Reseller | Global *(recently added)* |
+| [Time4VPS](https://hostingsift.com/hosting/time4vps) | VPS, Storage VPS, Managed | EU *(recently added)* |
+| [UltaHost](https://hostingsift.com/hosting/ultahost) | Shared, VPS, VDS, Dedicated, WordPress, Reseller | Global |
 | [Vultr](https://hostingsift.com/hosting/vultr) | VPS, Cloud, Dedicated | Global |
 | [Wix](https://hostingsift.com/hosting/wix) | Website Builder | Global |
 | [WP Engine](https://hostingsift.com/hosting/wp-engine) | WordPress, WooCommerce | Global |
@@ -91,4 +94,3 @@ We're especially interested in:
 ## License
 
 This project is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you're free to share and adapt, just give credit.
-****
