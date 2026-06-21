@@ -2,15 +2,15 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **48 providers** and **1303 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **50 providers** and **1337 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [ChemiCloud](https://hostingsift.com/hosting/chemicloud) — Shared, WordPress, Reseller, Cloud (18 plans)
+- [NameHero](https://hostingsift.com/hosting/namehero) — Shared, Reseller, VPS (16 plans)
 - [Time4VPS](https://hostingsift.com/hosting/time4vps) — VPS, Storage VPS, Managed (36 plans)
 - [Kamatera](https://hostingsift.com/hosting/kamatera) — Cloud (10 plans)
 - [HostPapa](https://hostingsift.com/hosting/hostpapa) — Shared, WordPress, VPS, Reseller (24 plans)
-- [Fly.io](https://hostingsift.com/hosting/fly-io) — Cloud, VPS (14 plans)
-- [OVHcloud](https://hostingsift.com/hosting/ovhcloud) — Shared, VPS, Dedicated (83 plans)
 
 ## How to suggest a provider
 
@@ -23,6 +23,7 @@ We currently track **48 providers** and **1303 plans**, but there are many great
 | [A2 Hosting](https://hostingsift.com/hosting/a2-hosting) | Shared, VPS, Reseller, WordPress | Global |
 | [Amazon Lightsail](https://hostingsift.com/hosting/aws) | VPS, Cloud | Global |
 | [Bluehost](https://hostingsift.com/hosting/bluehost) | Shared, VPS, Cloud, Dedicated, WordPress, WooCommerce | US |
+| [ChemiCloud](https://hostingsift.com/hosting/chemicloud) | Shared, WordPress, Reseller, Cloud | Global *(recently added)* |
 | [Cloudways](https://hostingsift.com/hosting/cloudways) | Cloud | Global |
 | [Contabo](https://hostingsift.com/hosting/contabo) | VPS, Cloud, Dedicated | EU |
 | [Devrims](https://hostingsift.com/hosting/devrims) | Cloud | Global |
@@ -33,7 +34,7 @@ We currently track **48 providers** and **1303 plans**, but there are many great
 | [ExtraVM](https://hostingsift.com/hosting/extravm) | VPS, Shared, Game Server (18+ games), Email, Dedicated | Global |
 | [Dynadot](https://hostingsift.com/hosting/dynadot) | Website Builder | Global |
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
-| [Fly.io](https://hostingsift.com/hosting/fly-io) | Cloud, VPS | Global *(recently added)* |
+| [Fly.io](https://hostingsift.com/hosting/fly-io) | Cloud, VPS | Global |
 | [GoDaddy](https://hostingsift.com/hosting/godaddy) | Shared, VPS, WordPress, Website Builder | Global |
 | [GreenGeeks](https://hostingsift.com/hosting/greengeeks) | Shared, VPS, Dedicated, Reseller, WordPress, WooCommerce | US/EU |
 | [Hetzner](https://hostingsift.com/hosting/hetzner) | Shared, VPS, Cloud, Dedicated | EU |
@@ -51,8 +52,9 @@ We currently track **48 providers** and **1303 plans**, but there are many great
 | [Liquid Web](https://hostingsift.com/hosting/liquidweb) | VPS, Dedicated, WordPress, WooCommerce | Global |
 | [Name.com](https://hostingsift.com/hosting/namecom) | Shared, WordPress | US |
 | [Namecheap](https://hostingsift.com/hosting/namecheap) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
+| [NameHero](https://hostingsift.com/hosting/namehero) | Shared, Reseller, VPS | US/EU *(recently added)* |
 | [Netcup](https://hostingsift.com/hosting/netcup) | Shared, VPS, Cloud, Reseller | EU |
-| [OVHcloud](https://hostingsift.com/hosting/ovhcloud) | Shared, VPS, Dedicated | Global *(recently added)* |
+| [OVHcloud](https://hostingsift.com/hosting/ovhcloud) | Shared, VPS, Dedicated | Global |
 | [PebbleHost](https://hostingsift.com/hosting/pebblehost) | Game Server, Dedicated, Shared | Global |
 | [Private Hosting](https://hostingsift.com/hosting/private-hosting) | Shared, VPS, Dedicated, Game Server | EU |
 | [Railway](https://hostingsift.com/hosting/railway) | Cloud | Global |
