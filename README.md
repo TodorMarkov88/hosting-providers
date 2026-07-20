@@ -2,7 +2,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **50 providers** and **1324 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **50 providers** and **1330 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
@@ -37,7 +37,7 @@ We currently track **50 providers** and **1324 plans**, but there are many great
 | [Fly.io](https://hostingsift.com/hosting/fly-io) | VPS, Cloud | Global |
 | [GoDaddy](https://hostingsift.com/hosting/godaddy) | Shared, VPS, WordPress, Website Builder | Global |
 | [GreenGeeks](https://hostingsift.com/hosting/greengeeks) | Shared, VPS, Dedicated, Reseller, WordPress, WooCommerce | US/EU |
-| [Hetzner](https://hostingsift.com/hosting/hetzner) | Shared, Cloud, Dedicated | EU |
+| [Hetzner](https://hostingsift.com/hosting/hetzner) | Shared, VPS, Cloud, Dedicated | EU |
 | [HostArmada](https://hostingsift.com/hosting/hostarmada) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [HostGator](https://hostingsift.com/hosting/hostgator) | Shared, VPS, WordPress | Global |
 | [Hostinger](https://hostingsift.com/hosting/hostinger) | Shared, VPS, Cloud, WordPress, Website Builder, Game Server, Agency | Global |
