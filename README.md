@@ -2,7 +2,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **50 providers** and **1339 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **50 providers** and **1367 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
@@ -40,7 +40,7 @@ We currently track **50 providers** and **1339 plans**, but there are many great
 | [Hetzner](https://hostingsift.com/hosting/hetzner) | Shared, VPS, Cloud, Dedicated | EU |
 | [HostArmada](https://hostingsift.com/hosting/hostarmada) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [HostGator](https://hostingsift.com/hosting/hostgator) | Shared, VPS, WordPress | Global |
-| [Hostinger](https://hostingsift.com/hosting/hostinger) | Shared, VPS, Cloud, WordPress, Website Builder, Game Server, Agency | Global |
+| [Hostinger](https://hostingsift.com/hosting/hostinger) | Shared, VPS, Cloud, WordPress, WooCommerce, Website Builder, Game Server, Agency | Global |
 | [HostPapa](https://hostingsift.com/hosting/hostpapa) | Shared, VPS, Reseller, WordPress | US/EU *(recently added)* |
 | [Hostwinds](https://hostingsift.com/hosting/hostwinds) | Shared, VPS, Reseller | US |
 | [InMotion Hosting](https://hostingsift.com/hosting/inmotion-hosting) | Shared, VPS, Dedicated | US |
