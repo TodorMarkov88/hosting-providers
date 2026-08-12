@@ -5,7 +5,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **50 providers** and **1412 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **50 providers** and **1403 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
@@ -41,7 +41,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
 | [Fly.io](https://hostingsift.com/hosting/fly-io) | VPS, Cloud | Global |
 | [GoDaddy](https://hostingsift.com/hosting/godaddy) | Shared, VPS, WordPress, Website Builder | Global |
-| [GreenGeeks](https://hostingsift.com/hosting/greengeeks) | Shared, VPS, Dedicated, Reseller, WordPress, WooCommerce | US/EU |
+| [GreenGeeks](https://hostingsift.com/hosting/greengeeks) | Shared, VPS, Reseller, WordPress, WooCommerce | US/EU |
 | [Hetzner](https://hostingsift.com/hosting/hetzner) | Shared, VPS, Cloud, Dedicated | EU |
 | [HostArmada](https://hostingsift.com/hosting/hostarmada) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [HostGator](https://hostingsift.com/hosting/hostgator) | Shared, VPS, WordPress | Global |
