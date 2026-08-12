@@ -1,8 +1,13 @@
 # HostingSift Community Providers
 
+[![Telegram](https://img.shields.io/badge/Telegram-Price_Alerts-26A5E4?logo=telegram&logoColor=white)](https://t.me/hostingsift)
+[![Price Trends](https://img.shields.io/badge/hostingsift.com-Price_Trends-14b8a6)](https://hostingsift.com/trends)
+
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **50 providers** and **1344 plans**, but there are many great hosting companies we haven't covered yet. That's where you come in!
+We currently track **50 providers** and **1344 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+
+There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
