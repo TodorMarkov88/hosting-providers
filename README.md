@@ -5,7 +5,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **50 providers** and **1403 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1321** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **50 providers** and **1465 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1342** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
@@ -13,7 +13,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 
 - [ChemiCloud](https://hostingsift.com/hosting/chemicloud) — Shared, Cloud, Reseller, WordPress (18 plans)
 - [NameHero](https://hostingsift.com/hosting/namehero) — Shared, VPS, Reseller (16 plans)
-- [HostPapa](https://hostingsift.com/hosting/hostpapa) — Shared, VPS, Reseller, WordPress (24 plans)
+- [HostPapa](https://hostingsift.com/hosting/hostpapa) — Shared, VPS, Dedicated, Reseller, WordPress (34 plans)
 - [Kamatera](https://hostingsift.com/hosting/kamatera) — Cloud (10 plans)
 - [Time4VPS](https://hostingsift.com/hosting/time4vps) — VPS (36 plans)
 
@@ -25,7 +25,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 
 | Provider | Types | Region |
 |----------|-------|--------|
-| [A2 Hosting](https://hostingsift.com/hosting/a2-hosting) | Shared, VPS, Reseller, WordPress | Global |
+| [A2 Hosting](https://hostingsift.com/hosting/a2-hosting) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [Amazon Lightsail](https://hostingsift.com/hosting/aws) | VPS, Cloud | Global |
 | [Bluehost](https://hostingsift.com/hosting/bluehost) | Shared, VPS, Dedicated, WordPress, WooCommerce | US |
 | [ChemiCloud](https://hostingsift.com/hosting/chemicloud) | Shared, Cloud, Reseller, WordPress | Global *(recently added)* |
@@ -34,7 +34,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [Devrims](https://hostingsift.com/hosting/devrims) | Cloud | Global |
 | [DigitalOcean](https://hostingsift.com/hosting/digitalocean) | Cloud | Global |
 | [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU |
-| [DreamHost](https://hostingsift.com/hosting/dreamhost) | Dedicated, WordPress | US |
+| [DreamHost](https://hostingsift.com/hosting/dreamhost) | Shared, VPS, Dedicated, WordPress | US |
 | [Dynadot](https://hostingsift.com/hosting/dynadot) | Website Builder | Global |
 | [Evolution Host](https://hostingsift.com/hosting/evolution-host) | VPS, Cloud, Game Server | EU |
 | [ExtraVM](https://hostingsift.com/hosting/extravm) | Shared, Cloud, Dedicated, Game Server, Email | Global |
@@ -46,7 +46,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [HostArmada](https://hostingsift.com/hosting/hostarmada) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [HostGator](https://hostingsift.com/hosting/hostgator) | Shared, VPS, WordPress | Global |
 | [Hostinger](https://hostingsift.com/hosting/hostinger) | Shared, VPS, Cloud, WordPress, WooCommerce, Website Builder, Game Server, Agency | Global |
-| [HostPapa](https://hostingsift.com/hosting/hostpapa) | Shared, VPS, Reseller, WordPress | US/EU *(recently added)* |
+| [HostPapa](https://hostingsift.com/hosting/hostpapa) | Shared, VPS, Dedicated, Reseller, WordPress | US/EU *(recently added)* |
 | [Hostwinds](https://hostingsift.com/hosting/hostwinds) | Shared, VPS, Reseller | US |
 | [InMotion Hosting](https://hostingsift.com/hosting/inmotion-hosting) | Shared, VPS, Dedicated | US |
 | [InterServer](https://hostingsift.com/hosting/interserver) | Shared, VPS, Dedicated | US |
