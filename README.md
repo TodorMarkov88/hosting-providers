@@ -5,13 +5,13 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **51 providers** and **1538 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1413** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **51 providers** and **1545 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1414** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
-- [is*hosting](https://hostingsift.com/hosting/ishosting) — VPS, Dedicated (67 plans)
+- [is*hosting](https://hostingsift.com/hosting/ishosting) — VPS, Dedicated (73 plans)
 - [ChemiCloud](https://hostingsift.com/hosting/chemicloud) — Shared, Cloud, Reseller, WordPress (18 plans)
 - [NameHero](https://hostingsift.com/hosting/namehero) — Shared, VPS, Reseller (16 plans)
 - [HostPapa](https://hostingsift.com/hosting/hostpapa) — Shared, VPS, Dedicated, Reseller, WordPress (34 plans)
