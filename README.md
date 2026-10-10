@@ -5,7 +5,7 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **52 providers** and **1568 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1465** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **52 providers** and **1569 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1461** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
