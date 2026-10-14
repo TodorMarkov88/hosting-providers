@@ -5,13 +5,13 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **53 providers** and **1601 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1495** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **53 providers** and **1993 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1886** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
-- [Godlike.Host](https://hostingsift.com/hosting/godlike-host) — VPS (32 plans)
+- [Godlike.Host](https://hostingsift.com/hosting/godlike-host) — VPS, Dedicated, Game Server (424 plans)
 - [Cloudzy](https://hostingsift.com/hosting/cloudzy) — VPS, Cloud (19 plans)
 - [is*hosting](https://hostingsift.com/hosting/ishosting) — VPS, Dedicated (73 plans)
 - [ChemiCloud](https://hostingsift.com/hosting/chemicloud) — Shared, Cloud, Reseller, WordPress (18 plans)
@@ -42,7 +42,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [FastComet](https://hostingsift.com/hosting/fastcomet) | Shared, VPS, Dedicated | Global |
 | [Fly.io](https://hostingsift.com/hosting/fly-io) | VPS, Cloud | Global |
 | [GoDaddy](https://hostingsift.com/hosting/godaddy) | Shared, VPS, WordPress, Website Builder | Global |
-| [Godlike.Host](https://hostingsift.com/hosting/godlike-host) | VPS | US/EU *(recently added)* |
+| [Godlike.Host](https://hostingsift.com/hosting/godlike-host) | VPS, Dedicated, Game Server | US/EU *(recently added)* |
 | [GreenGeeks](https://hostingsift.com/hosting/greengeeks) | Shared, VPS, Reseller, WordPress, WooCommerce | US/EU |
 | [Hetzner](https://hostingsift.com/hosting/hetzner) | Shared, VPS, Cloud, Dedicated | EU |
 | [HostArmada](https://hostingsift.com/hosting/hostarmada) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
