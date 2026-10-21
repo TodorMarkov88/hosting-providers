@@ -5,17 +5,17 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **53 providers** and **1990 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1881** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **54 providers** and **2025 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1920** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [Verpex](https://hostingsift.com/hosting/verpex) — Shared, VPS, Reseller, WordPress, Website Builder (35 plans)
 - [Godlike.Host](https://hostingsift.com/hosting/godlike-host) — VPS, Dedicated, Game Server (424 plans)
 - [Cloudzy](https://hostingsift.com/hosting/cloudzy) — VPS, Cloud (19 plans)
 - [is*hosting](https://hostingsift.com/hosting/ishosting) — VPS, Dedicated (73 plans)
 - [ChemiCloud](https://hostingsift.com/hosting/chemicloud) — Shared, Cloud, Reseller, WordPress (18 plans)
-- [NameHero](https://hostingsift.com/hosting/namehero) — Shared, VPS, Reseller (16 plans)
 
 ## How to suggest a provider
 
@@ -60,7 +60,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [Liquid Web](https://hostingsift.com/hosting/liquidweb) | VPS, Dedicated, WordPress, WooCommerce | Global |
 | [Name.com](https://hostingsift.com/hosting/namecom) | Shared, WordPress | US |
 | [Namecheap](https://hostingsift.com/hosting/namecheap) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
-| [NameHero](https://hostingsift.com/hosting/namehero) | Shared, VPS, Reseller | US/EU *(recently added)* |
+| [NameHero](https://hostingsift.com/hosting/namehero) | Shared, VPS, Reseller | US/EU |
 | [Netcup](https://hostingsift.com/hosting/netcup) | Shared, VPS, Cloud, Reseller | EU |
 | [OVHcloud](https://hostingsift.com/hosting/ovhcloud) | Shared, Cloud, Dedicated | Global |
 | [PebbleHost](https://hostingsift.com/hosting/pebblehost) | Shared, Dedicated, Game Server | Global |
@@ -75,6 +75,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) | Website Builder | Global |
 | [Time4VPS](https://hostingsift.com/hosting/time4vps) | VPS | EU |
 | [UltaHost](https://hostingsift.com/hosting/ultahost) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
+| [Verpex](https://hostingsift.com/hosting/verpex) | Shared, VPS, Reseller, WordPress, Website Builder | Global *(recently added)* |
 | [Vultr](https://hostingsift.com/hosting/vultr) | VPS, Cloud, Dedicated | Global |
 | [Wix](https://hostingsift.com/hosting/wix) | Website Builder | Global |
 | [WP Engine](https://hostingsift.com/hosting/wp-engine) | WordPress, WooCommerce | Global |
