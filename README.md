@@ -5,17 +5,17 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **54 providers** and **2032 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1909** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **55 providers** and **2062 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1939** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [Antihost](https://hostingsift.com/hosting/antihost) — VPS, WordPress, Agency (30 plans)
 - [Verpex](https://hostingsift.com/hosting/verpex) — Shared, VPS, Reseller, WordPress, Website Builder (35 plans)
 - [Godlike.Host](https://hostingsift.com/hosting/godlike-host) — VPS, Dedicated, Game Server (424 plans)
 - [Cloudzy](https://hostingsift.com/hosting/cloudzy) — VPS, Cloud (19 plans)
 - [is*hosting](https://hostingsift.com/hosting/ishosting) — VPS, Dedicated (73 plans)
-- [ChemiCloud](https://hostingsift.com/hosting/chemicloud) — Shared, Cloud, Reseller, WordPress (18 plans)
 
 ## How to suggest a provider
 
@@ -27,8 +27,9 @@ There are many great hosting companies we haven't covered yet. That's where you 
 |----------|-------|--------|
 | [A2 Hosting](https://hostingsift.com/hosting/a2-hosting) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [Amazon Lightsail](https://hostingsift.com/hosting/aws) | VPS, Cloud | Global |
+| [Antihost](https://hostingsift.com/hosting/antihost) | VPS, WordPress, Agency | US/EU *(recently added)* |
 | [Bluehost](https://hostingsift.com/hosting/bluehost) | Shared, VPS, Dedicated, WordPress, WooCommerce | US |
-| [ChemiCloud](https://hostingsift.com/hosting/chemicloud) | Shared, Cloud, Reseller, WordPress | Global *(recently added)* |
+| [ChemiCloud](https://hostingsift.com/hosting/chemicloud) | Shared, Cloud, Reseller, WordPress | Global |
 | [Cloudways](https://hostingsift.com/hosting/cloudways) | Cloud | Global |
 | [Cloudzy](https://hostingsift.com/hosting/cloudzy) | VPS, Cloud | Global *(recently added)* |
 | [Contabo](https://hostingsift.com/hosting/contabo) | VPS, Cloud, Dedicated | EU |
