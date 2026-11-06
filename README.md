@@ -5,14 +5,14 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **55 providers** and **2060 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1942** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **55 providers** and **2063 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1942** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
 - [Antihost](https://hostingsift.com/hosting/antihost) — VPS, WordPress, Agency (30 plans)
-- [Verpex](https://hostingsift.com/hosting/verpex) — Shared, VPS, Reseller, WordPress, Website Builder (35 plans)
+- [Verpex](https://hostingsift.com/hosting/verpex) — Shared, VPS, Reseller, WordPress, Website Builder (36 plans)
 - [Godlike.Host](https://hostingsift.com/hosting/godlike-host) — VPS, Dedicated, Game Server (425 plans)
 - [Cloudzy](https://hostingsift.com/hosting/cloudzy) — VPS, Cloud (19 plans)
 - [is*hosting](https://hostingsift.com/hosting/ishosting) — VPS, Dedicated (73 plans)
