@@ -5,17 +5,17 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **55 providers** and **2065 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1941** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **56 providers** and **2132 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1990** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [CubePath](https://hostingsift.com/hosting/cubepath) — VPS, Cloud, Dedicated (67 plans)
 - [Antihost](https://hostingsift.com/hosting/antihost) — VPS, WordPress, Agency (24 plans)
 - [Verpex](https://hostingsift.com/hosting/verpex) — Shared, VPS, Reseller, WordPress, Website Builder (35 plans)
 - [Godlike.Host](https://hostingsift.com/hosting/godlike-host) — VPS, Dedicated, Game Server (425 plans)
 - [Cloudzy](https://hostingsift.com/hosting/cloudzy) — VPS, Cloud (19 plans)
-- [is*hosting](https://hostingsift.com/hosting/ishosting) — VPS, Dedicated (73 plans)
 
 ## How to suggest a provider
 
@@ -33,6 +33,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [Cloudways](https://hostingsift.com/hosting/cloudways) | Cloud | Global |
 | [Cloudzy](https://hostingsift.com/hosting/cloudzy) | VPS, Cloud | Global *(recently added)* |
 | [Contabo](https://hostingsift.com/hosting/contabo) | VPS, Cloud, Dedicated | EU |
+| [CubePath](https://hostingsift.com/hosting/cubepath) | VPS, Cloud, Dedicated | US/EU *(recently added)* |
 | [Devrims](https://hostingsift.com/hosting/devrims) | Cloud | Global |
 | [DigitalOcean](https://hostingsift.com/hosting/digitalocean) | Cloud | Global |
 | [Diploi](https://hostingsift.com/hosting/diploi) | Cloud | EU |
@@ -54,7 +55,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [InMotion Hosting](https://hostingsift.com/hosting/inmotion-hosting) | Shared, VPS, Dedicated | US |
 | [InterServer](https://hostingsift.com/hosting/interserver) | Shared, VPS, Dedicated | US |
 | [IONOS](https://hostingsift.com/hosting/ionos) | Shared, VPS, Dedicated, WordPress, Website Builder | EU/US |
-| [is*hosting](https://hostingsift.com/hosting/ishosting) | VPS, Dedicated | Global *(recently added)* |
+| [is*hosting](https://hostingsift.com/hosting/ishosting) | VPS, Dedicated | Global |
 | [Kamatera](https://hostingsift.com/hosting/kamatera) | Cloud | Global |
 | [Kinsta](https://hostingsift.com/hosting/kinsta) | WordPress, Agency | Global |
 | [Linode (Akamai)](https://hostingsift.com/hosting/linode) | VPS, Cloud | Global |
