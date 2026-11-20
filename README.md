@@ -5,17 +5,17 @@
 
 A community-driven list of hosting providers for [HostingSift](https://hostingsift.com) — a hosting comparison platform with real pricing data, plan details, and side-by-side comparisons.
 
-We currently track **56 providers** and **2132 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **1990** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
+We currently track **57 providers** and **2147 plans**, scrape their advertised prices **every night**, and keep the full [price history](https://hostingsift.com/trends). **2005** of those plans are currently purchasable — the rest are sold-out or retired tiers whose price history we keep. Real price changes land in our Telegram channel: **[t.me/hostingsift](https://t.me/hostingsift)** 🔔
 
 There are many great hosting companies we haven't covered yet. That's where you come in!
 
 ## Recently added
 
+- [TPC Hosting](https://hostingsift.com/hosting/tpc-hosting) — Shared, VPS, Reseller, WordPress (15 plans)
 - [CubePath](https://hostingsift.com/hosting/cubepath) — VPS, Cloud, Dedicated (67 plans)
 - [Antihost](https://hostingsift.com/hosting/antihost) — VPS, WordPress, Agency (24 plans)
 - [Verpex](https://hostingsift.com/hosting/verpex) — Shared, VPS, Reseller, WordPress, Website Builder (35 plans)
 - [Godlike.Host](https://hostingsift.com/hosting/godlike-host) — VPS, Dedicated, Game Server (425 plans)
-- [Cloudzy](https://hostingsift.com/hosting/cloudzy) — VPS, Cloud (19 plans)
 
 ## How to suggest a provider
 
@@ -31,7 +31,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [Bluehost](https://hostingsift.com/hosting/bluehost) | Shared, VPS, Dedicated, WordPress, WooCommerce | US |
 | [ChemiCloud](https://hostingsift.com/hosting/chemicloud) | Shared, Cloud, Reseller, WordPress | Global |
 | [Cloudways](https://hostingsift.com/hosting/cloudways) | Cloud | Global |
-| [Cloudzy](https://hostingsift.com/hosting/cloudzy) | VPS, Cloud | Global *(recently added)* |
+| [Cloudzy](https://hostingsift.com/hosting/cloudzy) | VPS, Cloud | Global |
 | [Contabo](https://hostingsift.com/hosting/contabo) | VPS, Cloud, Dedicated | EU |
 | [CubePath](https://hostingsift.com/hosting/cubepath) | VPS, Cloud, Dedicated | US/EU *(recently added)* |
 | [Devrims](https://hostingsift.com/hosting/devrims) | Cloud | Global |
@@ -76,6 +76,7 @@ There are many great hosting companies we haven't covered yet. That's where you 
 | [Squarespace](https://hostingsift.com/hosting/squarespace) | Website Builder | Global |
 | [Tiiny Host](https://hostingsift.com/hosting/tiiny-host) | Website Builder | Global |
 | [Time4VPS](https://hostingsift.com/hosting/time4vps) | VPS | EU |
+| [TPC Hosting](https://hostingsift.com/hosting/tpc-hosting) | Shared, VPS, Reseller, WordPress | EU/US *(recently added)* |
 | [UltaHost](https://hostingsift.com/hosting/ultahost) | Shared, VPS, Dedicated, Reseller, WordPress | Global |
 | [Verpex](https://hostingsift.com/hosting/verpex) | Shared, VPS, Reseller, WordPress, Website Builder | Global *(recently added)* |
 | [Vultr](https://hostingsift.com/hosting/vultr) | VPS, Cloud, Dedicated | Global |
